@@ -1,13 +1,13 @@
 Summary:	Persian dictionary for aspell
 Summary(pl):	Perski s³ownik dla aspella
 Name:		aspell-fa
-Version:	0.10
+Version:	0.11
 %define	subv	0
 Release:	1
 License:	GPL v2+
 Group:		Applications/Text
 Source0:	ftp://ftp.gnu.org/gnu/aspell/dict/fa/aspell6-fa-%{version}-%{subv}.tar.bz2
-# Source0-md5:	b9087e2af3ad01437ba9e70abc9822de
+# Source0-md5:	47c8599e529fc291a096c12f0b8372ca
 URL:		http://wordlist.sourceforge.net/
 BuildRequires:	aspell >= 3:0.60
 Requires:	aspell >= 3:0.60
