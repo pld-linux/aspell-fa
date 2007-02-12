@@ -1,5 +1,5 @@
 Summary:	Persian dictionary for aspell
-Summary(pl.UTF-8):   Perski słownik dla aspella
+Summary(pl.UTF-8):	Perski słownik dla aspella
 Name:		aspell-fa
 Version:	0.11
 %define	subv	0
