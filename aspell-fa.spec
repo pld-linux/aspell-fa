@@ -1,5 +1,5 @@
 Summary:	Persian dictionary for aspell
-Summary(pl):	Perski s≥ownik dla aspella
+Summary(pl.UTF-8):   Perski s≈Çownik dla aspella
 Name:		aspell-fa
 Version:	0.11
 %define	subv	0
@@ -16,8 +16,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Persian dictionary (i.e. word list) for aspell.
 
-%description -l pl
-Perski s≥ownik (lista s≥Ûw) dla aspella.
+%description -l pl.UTF-8
+Perski s≈Çownik (lista s≈Ç√≥w) dla aspella.
 
 %prep
 %setup -q -n aspell6-fa-%{version}-%{subv}
