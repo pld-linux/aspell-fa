@@ -8,7 +8,7 @@ License:	GPL v2+
 Group:		Applications/Text
 Source0:	ftp://ftp.gnu.org/gnu/aspell/dict/fa/aspell6-fa-%{version}-%{subv}.tar.bz2
 # Source0-md5:	47c8599e529fc291a096c12f0b8372ca
-URL:		http://wordlist.sourceforge.net/
+URL:		http://aspell.net/
 BuildRequires:	aspell >= 3:0.60
 Requires:	aspell >= 3:0.60
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
